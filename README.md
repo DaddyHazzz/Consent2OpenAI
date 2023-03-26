@@ -1,0 +1,2 @@
+# Consent2OpenAI
+Consent
